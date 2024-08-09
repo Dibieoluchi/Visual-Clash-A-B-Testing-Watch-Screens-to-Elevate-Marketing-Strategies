@@ -1,5 +1,6 @@
-# Visual-Clash-A-B-Testing-Watch-Screens-to-Elevate-Marketing-Strategies
-Project Title:
+#Visual-Clash-A-B-Testing-Watch-Screens-to-Elevate-Marketing-Strategies
+
+#Project Title:
 A/B Testing Analysis for Timetrends: Evaluating Watch Screen Designs
 
 1. Context:
